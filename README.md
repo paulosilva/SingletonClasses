@@ -14,5 +14,5 @@ Just one little advice, don’t abuse of Singleton classes, because they will co
 
 The first is the **AppTheme**, where I define all the necessary stuff for the user interface.
 
-The second is the **AppSettings**, where I define all necessary constants for localization formating and API configuration also.
+The second is the **AppSettings**, where I define all necessary constants for localization formatting and API configuration also.
 
